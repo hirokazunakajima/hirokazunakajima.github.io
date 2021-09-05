@@ -4,4 +4,4 @@
 - Facebook
 - GitHub
 - Twitter
-- Googleでログイン
+- Google
